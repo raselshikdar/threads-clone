@@ -6,8 +6,8 @@ export const siteConfig = {
     url: "https://threads.codebustar.com.vercel.app",
     ogImage: "https://threads.codebustar.com/opengraph-image.png",
     links: {
-        twitter: "https://twitter.com/sujjeeee",
-        github: "https://github.com/sujjeee",
-        discord: "https://discord.com/users/sujjeee",
+        twitter: "https://twitter.com/raselshikdar_",
+        github: "https://github.com/raselshikdar",
+        discord: "https://discord.com/users/rasel597",
     },
 }
